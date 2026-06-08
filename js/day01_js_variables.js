@@ -65,6 +65,6 @@
 
 let firstName = "Kami";
 let lastName = "Sama";
-let fullName = firstName.concat(" " , lastName).concat(" ", firstName);
+let fullName = firstName.concat(" " , "is not dead,", lastName).concat(" ", firstName);
 console.log(fullName);
 // this outputs kami Sama
