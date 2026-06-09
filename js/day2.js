@@ -7,7 +7,7 @@
 // lernt typeof
 // typeof outputs the datatype of a value.
 
-let x = 10;
+let x = 10.7;
 let y = "cat";
 let z = true;
 console.log(typeof  x);
